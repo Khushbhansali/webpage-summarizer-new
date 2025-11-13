@@ -1,0 +1,5 @@
+sumy
+nltk
+requests
+beautifulsoup4
+ipywidgets
